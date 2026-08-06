@@ -40,7 +40,7 @@
 
 ## UPLINKS
 
-<a href="https://sebilations.dev"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=ff007f" alt="Portfolio" /></a>
+<a href="https://sebilations.dev"><img src="https://img.shields.io/badge/Portfolio-ff007f?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sebastian-patrascu-616a79307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/ItsSeberonic"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/seberonic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
