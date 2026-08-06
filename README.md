@@ -16,23 +16,6 @@ Building intelligent, smooth user experiences with modern web technologies.
 
 </div>
 
-<br />
-
-<!-- Left-aligned on purpose: these pills have different widths, so centering
-     them would leave the left edges ragged. Flush left keeps them lined up. -->
-
-<img src="https://img.shields.io/badge/BUILDING-things_that_probably_didn't_need_building-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Building" />
-<br />
-<img src="https://img.shields.io/badge/LEARNING-low--level_programming,_closer_to_the_metal-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Learning" />
-<br />
-<img src="https://img.shields.io/badge/BASED_IN-Algarve,_Portugal-FF00E4?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" alt="Based in Algarve, Portugal" />
-<br />
-<img src="https://img.shields.io/badge/OPEN_TO-collaborations_%C2%B7_freelance_%C2%B7_cool_ideas-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Open to" />
-<br />
-<img src="https://img.shields.io/badge/ASK_ME-Vue_%C2%B7_front--end_architecture_%C2%B7_why_I'm_lazy-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Ask me about" />
-
-<br />
-
 <div align="center">
 
 ## STACK
