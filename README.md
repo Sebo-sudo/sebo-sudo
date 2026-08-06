@@ -10,10 +10,6 @@
 
 ### Software Engineer &nbsp;·&nbsp; Web Developer
 
-**I turn ideas into websites — then handle the management and advertising too.**
-
-Building intelligent, smooth user experiences with modern web technologies.
-
 </div>
 
 <div align="center">
