@@ -8,27 +8,34 @@
 
 <br /><br />
 
-### `Software Engineer` &nbsp;·&nbsp; `Web Developer` &nbsp;·&nbsp; `Algarve, Portugal`
+### Software Engineer &nbsp;·&nbsp; Web Developer
 
 **I turn ideas into websites — then handle the management and advertising too.**
 
 Building intelligent, smooth user experiences with modern web technologies.
 
+</div>
+
 <br />
 
-**`▹ BUILDING`** &nbsp; things that probably didn't need building <br />
-**`▹ LEARNING`** &nbsp; low-level programming, closer to the metal <br />
-**`▹ BASED IN`** &nbsp; the Algarve, Portugal 🇵🇹 <br />
-**`▹ OPEN TO`** &nbsp; collaborations &nbsp;·&nbsp; freelance &nbsp;·&nbsp; cool ideas <br />
-**`▹ ASK ME`** &nbsp; Vue &nbsp;·&nbsp; front-end architecture &nbsp;·&nbsp; why I'm lazy
+<!-- Left-aligned on purpose: these pills have different widths, so centering
+     them would leave the left edges ragged. Flush left keeps them lined up. -->
 
-</div>
+<img src="https://img.shields.io/badge/BUILDING-things_that_probably_didn't_need_building-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Building" />
+<br />
+<img src="https://img.shields.io/badge/LEARNING-low--level_programming,_closer_to_the_metal-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Learning" />
+<br />
+<img src="https://img.shields.io/badge/BASED_IN-Algarve,_Portugal-FF00E4?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" alt="Based in Algarve, Portugal" />
+<br />
+<img src="https://img.shields.io/badge/OPEN_TO-collaborations_%C2%B7_freelance_%C2%B7_cool_ideas-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Open to" />
+<br />
+<img src="https://img.shields.io/badge/ASK_ME-Vue_%C2%B7_front--end_architecture_%C2%B7_why_I'm_lazy-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Ask me about" />
 
 <br />
 
 <div align="center">
 
-## `▚▚▚` STACK `▚▚▚`
+## STACK
 
 <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,nodejs,vite,python,c,git,github,linux,vscode,figma&theme=dark&perline=8" alt="Tech stack" />
 
@@ -38,7 +45,7 @@ Building intelligent, smooth user experiences with modern web technologies.
 
 <div align="center">
 
-## `▚▚▚` CONTRIBUTION GRID `▚▚▚`
+## CONTRIBUTION GRID
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sebo-sudo/sebo-sudo/output/snake-dark.svg" />
@@ -52,7 +59,7 @@ Building intelligent, smooth user experiences with modern web technologies.
 
 <div align="center">
 
-## `▚▚▚` UPLINKS `▚▚▚`
+## UPLINKS
 
 <a href="https://sebilations.dev"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sebastian-patrascu-616a79307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
