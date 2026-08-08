@@ -16,7 +16,7 @@
 
 ## STACK
 
-<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,nodejs,vite,python,c,git,github,linux,vscode,figma&theme=dark&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=vue,ts,js,css,sass,tailwind,threejs,nodejs,vite,fastapi,python,php,c,rust,git,github,linux,fedora,zsh,docker,vscode,figma&theme=dark&perline=8" alt="Tech stack" />
 
 </div>
 
