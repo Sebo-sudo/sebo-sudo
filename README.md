@@ -24,20 +24,6 @@
 
 <div align="center">
 
-## CONTRIBUTION GRID
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sebo-sudo/sebo-sudo/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sebo-sudo/sebo-sudo/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/Sebo-sudo/sebo-sudo/output/snake.svg" alt="Contribution snake" width="100%" />
-</picture>
-
-</div>
-
-<br />
-
-<div align="center">
-
 ## UPLINKS
 
 <a href="https://sebilations.dev"><img src="https://img.shields.io/badge/Portfolio-ff007f?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
